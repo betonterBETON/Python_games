@@ -1,0 +1,14 @@
+#this game prompts the user to guess a number 
+#the game will choose a random value between 1 and 20 (inclusive range)
+#after making a guess, the user receives feedback, if his guess is too high or too low 
+#guessing game continues until either the user guesses correctly (wins) or has made 6 attempts (lose)
+
+Ask user for their name. 
+Read and save name. 
+Calling the user by name, give the task of guessing a number from range (specify range) 1-20. 
+Take in 1st guess. 
+If guessed, win! Inform of win and state total attempts. Else give feedback- too high or too low. 
+Take in 2nd guess. 
+... 
+repeat until 6th (last) guess. 
+If last guess was successful, win! Inform of win and state total attempts. Else inform of loss. 
